@@ -1,0 +1,47 @@
+.about-text{
+    font-size: 20px;
+    font-family: 'Hind Siliguri', sans-serif;
+    color: rgba(0, 0, 0, 0.966);
+    margin-top: 100px;
+}
+.about h1{
+    font-size: 50px;
+    font-family: 'Hind Siliguri', sans-serif;
+    color: rgba(6, 8, 24, 0.966);
+}
+.about-bb{
+    margin-top: 10%;
+}
+.about-bb li{
+  margin-bottom: 16px;
+  font-size: 20px;
+  list-style: none;
+}
+.about-bb li span{
+    font-size: 17px;
+  }
+   
+.sp-1{
+    margin-left: 44px;
+}
+.sp-2{
+    margin-left: 20px;
+}
+.sp-3{
+    margin-left: 13px;
+}
+.sp-4{
+    margin-left: 19px;
+}
+.about-card{
+    margin-top: 10px;
+    margin-left: 10%;
+    padding: 10px 0px;
+    box-shadow: 10px 10px 5px rgb(49, 49, 49);
+}
+
+
+
+ 
+  
+
